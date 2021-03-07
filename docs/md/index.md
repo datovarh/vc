@@ -1,4 +1,4 @@
-# Visual Computing Template
+# Visual Computing Template Diego
 
 Welcome to the [UN / DISI](http://www.ingenieria.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial) _visual computing_ course template site.
 
